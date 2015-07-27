@@ -3,5 +3,6 @@
 include<stdio.h>
 include<string.h>
 
-string g_words = "hello world";
+const string g_words = "hello world";
+const bool g_cfg_say_bye = false;
 #endif
