@@ -1,8 +1,9 @@
-#include<stdio.h>
-main(){
-    doSmile();
-}
+#include"stdio.h"
 
 void doSmile(){
     printf("smiling!");
+}
+
+void doTalk(){
+    printf("hi!");
 }
