@@ -7,6 +7,8 @@ main(){
     printf(g_words);
     if(g_cfg_say_bye){
         printf("bye bye");
+    }else{
+        // do nothing
     }
 }
 
